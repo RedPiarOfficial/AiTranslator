@@ -22,7 +22,7 @@ pip install aitranslator
 ## Quick Start
 
 ```python
-from ai_translator import Translator
+from aitranslator import Translator
 
 # Initialize the translator
 translator = Translator()
