@@ -16,13 +16,13 @@ A powerful Python library for accessing multiple translation services through a 
 ## Installation
 
 ```bash
-pip install aitranslator
+pip install translatorai
 ```
 
 ## Quick Start
 
 ```python
-from aitranslator import Translator
+from translatorai import Translator
 
 # Initialize the translator
 translator = Translator()
